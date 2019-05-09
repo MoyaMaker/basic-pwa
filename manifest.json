@@ -1,0 +1,14 @@
+{
+  "name": "qu1dev - p1stache",
+  "description": "App example",
+  "short_name": "qu1dev",
+  "icons": [{
+    "src": "/assets/icon-144x144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
